@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452628242 source:/opt/gitrepo/repo1/study/bucky/15/burrito/burrito.cpp
+	"burrito.h"
+	<iostream>
+
+1452628272 /opt/gitrepo/repo1/study/bucky/15/burrito/burrito.h
+
+1452628250 source:/opt/gitrepo/repo1/study/bucky/15/burrito/main.cpp
+	<iostream>
+	"burrito.h"
+
