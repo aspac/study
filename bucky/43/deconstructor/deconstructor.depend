@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452718026 source:/opt/gitrepo/repo1/study/bucky/43/deconstructor/src/sally.cpp
+	"sally.h"
+	<iostream>
+
+1452718007 /opt/gitrepo/repo1/study/bucky/43/deconstructor/include/sally.h
+

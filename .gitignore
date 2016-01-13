@@ -27,6 +27,11 @@
 *.out
 *.app
 
+# codeblock
+*.cpb
+bin/
+*.layout
+
 # My compiled hello
 hello
 main
