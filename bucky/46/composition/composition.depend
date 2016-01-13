@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1452724166 source:/opt/gitrepo/repo1/study/bucky/46/composition/main.cpp
+	<iostream>
+	<string>
+	"People.h"
+	"Birthday.h"
+
+1452724348 /opt/gitrepo/repo1/study/bucky/46/composition/include/People.h
+	<string>
+	"Birthday.h"
+
+1452723696 /opt/gitrepo/repo1/study/bucky/46/composition/include/Birthday.h
+
+1452724364 source:/opt/gitrepo/repo1/study/bucky/46/composition/src/Birthday.cpp
+	"Birthday.h"
+	<iostream>
+	<string>
+
+1452724460 source:/opt/gitrepo/repo1/study/bucky/46/composition/src/People.cpp
+	<iostream>
+	<string>
+	"People.h"
+	"Birthday.h"
+
