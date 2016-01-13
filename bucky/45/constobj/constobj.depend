@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452719113 source:/opt/gitrepo/repo1/study/bucky/43/constobj/main.cpp
+	<iostream>
+	"Sally.h"
+
+1452719042 /opt/gitrepo/repo1/study/bucky/43/constobj/include/Sally.h
+
+1452719124 source:/opt/gitrepo/repo1/study/bucky/43/constobj/src/Sally.cpp
+	"Sally.h"
+	<iostream>
+
