@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452714131 source:/opt/gitrepo/repo1/study/bucky/42/arrowmember/src/Sally.cpp
+	"Sally.h"
+	<iostream>
+
+1452714167 /opt/gitrepo/repo1/study/bucky/42/arrowmember/include/Sally.h
+
