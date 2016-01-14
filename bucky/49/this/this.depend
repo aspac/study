@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452805768 source:/opt/gitrepo/repo1/study/bucky/49/this/main.cpp
+	<iostream>
+	"Hannah.h"
+
+1452805777 /opt/gitrepo/repo1/study/bucky/49/this/include/Hannah.h
+
