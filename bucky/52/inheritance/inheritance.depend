@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1452891995 source:/opt/gitrepo/repo1/study/bucky/52/inheritance/main.cpp
+	<iostream>
+	"Mother.h"
+	"Daugher.h"
+
+1452891434 source:/opt/gitrepo/repo1/study/bucky/52/inheritance/src/Daugher.cpp
+	"Daugher.h"
+
+1452892079 /opt/gitrepo/repo1/study/bucky/52/inheritance/include/Daugher.h
+	"Mother.h"
+
+1452891830 source:/opt/gitrepo/repo1/study/bucky/52/inheritance/src/Mother.cpp
+	"Mother.h"
+	<iostream>
+
+1452891856 /opt/gitrepo/repo1/study/bucky/52/inheritance/include/Mother.h
+	<string>
+
