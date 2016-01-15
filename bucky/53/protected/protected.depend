@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1452894734 source:/opt/gitrepo/repo1/study/bucky/53/protected/src/Daugg.cpp
+	"Daugg.h"
+
+1452894761 /opt/gitrepo/repo1/study/bucky/53/protected/include/Daugg.h
+	"Mother.h"
+
+1452894499 /opt/gitrepo/repo1/study/bucky/53/protected/include/Mother.h
+
+1452894333 source:/opt/gitrepo/repo1/study/bucky/53/protected/src/Mother.cpp
+	"Mother.h"
+
+1452894779 source:/opt/gitrepo/repo1/study/bucky/53/protected/main.cpp
+	<iostream>
+	"Daugg.h"
+
