@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1452933758 source:/opt/gitrepo/repo1/study/bucky/54/derivingconstructors/main.cpp
+	<iostream>
+	"Daughter.h"
+
+1452933771 /opt/gitrepo/repo1/study/bucky/54/derivingconstructors/include/Daughter.h
+	"Mother.h"
+
+1452933573 /opt/gitrepo/repo1/study/bucky/54/derivingconstructors/include/Mother.h
+
+1452933724 source:/opt/gitrepo/repo1/study/bucky/54/derivingconstructors/src/Daughter.cpp
+	"Daughter.h"
+	<iostream>
+
